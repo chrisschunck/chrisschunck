@@ -21,8 +21,3 @@ Sou Palmeirense e curto ir a academia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
 </div>
-
-# **Onde me encontrar**
-<div align="left">
-  <a href="https://www.linkedin.com/in/christian-schunck/" target="_blank"><img src="https://img.shields.io/static/v1 message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" target="_blank" height="25" alt="linkedin logo"/></a>
-</div>
