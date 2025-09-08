@@ -24,5 +24,5 @@ Sou Palmeirense e curto ir a academia
 
 # **Onde me encontrar**
 <div align="left">
-  <a href="https://www.linkedin.com/in/christian-schunck/>"<img src="https://img.shields.io/static/v1 message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://www.linkedin.com/in/christian-schunck/" target="_blank"><img src="https://img.shields.io/static/v1 message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" target="_blank" height="25" alt="linkedin logo"/></a>
 </div>
