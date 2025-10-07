@@ -6,8 +6,6 @@ Cursando Bacharelado em Engenharia de Software (2º/8º semestre) na FIAP, apaix
 
 Interessado por analise de dados 
 
-Sou Palmeirense e curto ir a academia 
-
  # **Tecnologias e habilidades**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"/>
