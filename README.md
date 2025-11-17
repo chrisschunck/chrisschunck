@@ -12,7 +12,7 @@ Interessado por analise de dados
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="30" alt="CSS logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/CSS/CSS-original.svg" height="30" alt="CSS logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"/>
   <img width="12"/>
