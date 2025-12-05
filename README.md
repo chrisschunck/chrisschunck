@@ -6,7 +6,7 @@ Cursando Bacharelado em Engenharia de Software (2º/8º semestre) na FIAP, apaix
 
 Interessado por analise de dados 
 
- # **Tecnologias e habilidades**
+# **Tecnologias e habilidades**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo"/>
   <img width="12"/>
@@ -20,10 +20,11 @@ Interessado por analise de dados
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon-cplusplus-plain-original.svg" height="30" alt="C++ logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind logo"/>
   <img width="12"/>
 </div>
+
