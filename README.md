@@ -4,7 +4,7 @@ Cursando Bacharelado em Engenharia de Software (3º/8º semestre) na FIAP, apaix
 
 # **Sobre mim**
 
-Interessado por analise de dados 
+Interessado por analise de dados e me tornar desenvolvedor Full Stack
 
 # **Tecnologias e habilidades**
 <div align="left">
