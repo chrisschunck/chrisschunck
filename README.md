@@ -30,5 +30,6 @@ Interessado por analise de dados e focado em me tornar desenvolvedor Full Stack
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind logo"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo"/>
+  <img width="12"/>    
 </div>
-
