@@ -4,7 +4,7 @@ Cursando Bacharelado em Engenharia de Software (3º/8º semestre) na FIAP, apaix
 
 # **Sobre mim**
 
-Interessado por analise de dados e focado em me tornar desenvolvedor Full Stack
+Interessado por analise de dados e focado em me tornar desenvolvedor Full Stack.
 
 # **Tecnologias e habilidades**
 <div align="left">
@@ -32,4 +32,6 @@ Interessado por analise de dados e focado em me tornar desenvolvedor Full Stack
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind logo"/>
   <img width="12"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="Tailwind logo"/>
+  <img width="12"/>
 </div>
