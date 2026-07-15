@@ -1,6 +1,6 @@
 # Christian Schunck de Almeida
 
-Cursando Bacharelado em Engenharia de Software (3º/8º semestre) na FIAP, apaixonado por esporte, tecnologia, analise de dados e tirar ideias do papel por meio de código.
+Cursando Bacharelado em Engenharia de Software (4º/8º semestre) na FIAP, apaixonado por esporte, tecnologia, analise de dados e tirar ideias do papel por meio de código.
 
 # **Sobre mim**
 
